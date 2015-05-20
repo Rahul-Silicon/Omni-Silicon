@@ -1,2 +1,2 @@
-# Omni-Silicon
+# Omniexternal
 Readme
